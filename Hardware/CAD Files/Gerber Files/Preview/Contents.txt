@@ -1,0 +1,2 @@
+This folder will have a preview of the options on an example PCB website, 
+and also preview images of what the PCB will look like
