@@ -1,1 +1,0 @@
-This file will have instructions on how to upload the bootloader file onto the processor correctly.
