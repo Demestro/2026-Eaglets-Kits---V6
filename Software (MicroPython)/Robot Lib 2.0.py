@@ -215,7 +215,7 @@ class Neopixel:
         red = round(rgb_w[0] * bratio)
         green = round(rgb_w[1] * bratio)
         blue = round(rgb_w[2] * bratio)
-        white = 0
+        white = 255
         # if it's (r, g, b, w)
         if len(rgb_w) == 4 and self.W_in_mode:
             white = round(rgb_w[3] * bratio)
